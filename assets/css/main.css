@@ -638,6 +638,7 @@ input, select, textarea {
 		border: 0;
 		display: inline-block;
 		position: relative;
+		
 	}
 
 		.img1{
@@ -648,7 +649,7 @@ background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+
 			width: 20%;
 			border-radius: 160px;
 			opacity: 0.9;
-			justify-content: ;
+		
 			
 		}
 		
@@ -671,6 +672,7 @@ background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+
 		.image img {
 			border-radius: 4px;
 			display: block;
+			
 		}
 
 		.image.left, .image.right {
